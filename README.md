@@ -7,3 +7,6 @@ This is some text
 Good content
 
 New content
+
+
+Some new content
