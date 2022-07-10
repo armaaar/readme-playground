@@ -1,7 +1,9 @@
 # Glorious Title
 
-This is some text
+These is some text
 
 ## another title
 
 Great content
+
+New content
