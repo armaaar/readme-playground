@@ -1,6 +1,6 @@
 # Glorious Title
 
-These is some text
+This's some text
 
 ## another title
 
