@@ -4,6 +4,6 @@ These is some text
 
 ## another title
 
-Great content
+Good content
 
 New content
